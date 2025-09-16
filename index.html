@@ -165,13 +165,13 @@
 
     <div class="legend">
       <span>Official: ✅ / ❌</span>
-      <span>Прапорці 🇺🇦 🇺🇸 — походження автора/видавця (1–2 шт. на назву)</span>
+      <span>Flags 🇺🇦/🇺🇸: dev/pub roots</span>
     </div>
 
     <div id="grid" class="grid" role="list"></div>
 
     <footer>
-      Назва сайту: <strong>Lacki23</strong>. Це демо; відредагуйте <code>games.json</code>, щоби підставити ваші дані.
+      <strong>Lacki23's</strong> site. Creator: <strong>LittleBit</strong>.
     </footer>
   </div>
 
@@ -367,7 +367,7 @@ function render(items){
         cta.className = 'link';
         cta.href = `https://store.steampowered.com/app/${g.appId}`;
         cta.target = "_blank"; cta.rel = "noopener";
-        cta.textContent = "Відкрити в Steam →";
+        cta.textContent = "Open in Steam →";
       }
     } else {
       if(g.downloadUrl){
