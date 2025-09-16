@@ -21,7 +21,7 @@
       "appId": "1142080",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇵🇱"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -33,7 +33,7 @@
       "appId": "2003880",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇪🇸"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -45,7 +45,7 @@
       "appId": "1683370",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇮🇹"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -57,7 +57,7 @@
       "appId": "2085360",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇨🇳"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -69,7 +69,7 @@
       "appId": "590590",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇹🇷"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -81,7 +81,7 @@
       "appId": "2513080",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇺🇸"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -93,7 +93,7 @@
       "appId": "2103370",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇪🇸"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -105,7 +105,7 @@
       "appId": "2386250",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇺🇸"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -117,7 +117,7 @@
       "appId": "1170720",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇭🇺"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -129,7 +129,7 @@
       "appId": "1125390",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇨🇦"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -141,7 +141,7 @@
       "appId": "2257410",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇪🇸"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -153,7 +153,7 @@
       "appId": "754810",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇺🇸"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -165,7 +165,7 @@
       "appId": "410890",
       "imageUrl": "",
       "official": false,
-      "flags": [],
+      "flags": ["🇺🇸", "🇯🇵"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -177,7 +177,7 @@
       "appId": "2383220",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇪🇸"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -189,7 +189,7 @@
       "appId": "1749420",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇺🇦"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -201,7 +201,7 @@
       "appId": "2145220",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇸🇪"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -213,7 +213,7 @@
       "appId": "585880",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇺🇸"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -225,7 +225,7 @@
       "appId": "2137480",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇯🇲"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -237,7 +237,7 @@
       "appId": "2095510",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇪🇸"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -249,7 +249,7 @@
       "appId": "925340",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇺🇸"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -261,7 +261,7 @@
       "appId": "2395150",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇺🇦"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -273,7 +273,7 @@
       "appId": "1343340",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇪🇸"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -285,7 +285,7 @@
       "appId": "2787710",
       "imageUrl": "",
       "official": false,
-      "flags": [],
+      "flags": ["🇪🇸", "🇫🇷"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -297,7 +297,7 @@
       "appId": "2288600",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇵🇱"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -309,7 +309,7 @@
       "appId": "3689520",
       "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3689520/ea7219ee7ddb30b4f124baa08511eb82e0f79a2f/library_600x900.jpg",
       "official": true,
-      "flags": [],
+      "flags": ["🇨🇳"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -321,7 +321,7 @@
       "appId": "429940",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇺🇸"],
       "collaboration": "",
       "platforms": [
         "PC"
@@ -333,7 +333,7 @@
       "appId": "597060",
       "imageUrl": "",
       "official": true,
-      "flags": [],
+      "flags": ["🇩🇪"],
       "collaboration": "",
       "platforms": [
         "PC"
