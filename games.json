@@ -1,0 +1,344 @@
+{
+  "_INSTRUCTIONS": "Як редагувати:\n- Для кожної гри заповніть або \"appId\" (число з адреси сторінки Steam), або \"imageUrl\" з Steam CDN.\n  • Приклад header: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/APPID/header.jpg\n  • Приклад library (постер 600×900 з хешем): https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/APPID/<hash>/library_600x900.jpg?t=<ts>\n- \"official\": true/false — відобразиться як ✅ / ❌.\n- \"flags\": масив з 0–2 прапорців-емоджі (походження автора/видавця), напр.: [\"🇺🇦\",\"🇵🇱\"].\n- \"collaboration\": текст (напр., \"Solo\", \"Team\", \"З автором\").\n- \"platforms\": масив або рядок (напр., [\"PC\"] чи \"PC, Switch\").\nЗберегти у цьому файлі, після оновлення сторінки дані підтягнуться автоматично.",
+  "games": [
+    {
+      "title": "ENA: Dream BBQ",
+      "appId": "2134320",
+      "imageUrl": "",
+      "official": false,
+      "flags": [
+        "🇺🇸"
+      ],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": "",
+      "status": "In Work"
+    },
+    {
+      "title": "Pawnbarian",
+      "appId": "1142080",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "The Creepy Syndrome",
+      "appId": "2003880",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "Blocky Dungeon",
+      "appId": "1683370",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "Insomnia: Theater in the Head",
+      "appId": "2085360",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "Remnants of Naezith",
+      "appId": "590590",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "To Have and to Hold",
+      "appId": "2513080",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "FINIS",
+      "appId": "2103370",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "It gets so lonely here",
+      "appId": "2386250",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "PocketCars",
+      "appId": "1170720",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "Atrio: The Dark Wild",
+      "appId": "1125390",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "Crashy Laps",
+      "appId": "2257410",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "Six Days of Snow",
+      "appId": "754810",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "Higurashi When They Cry Hou - Ch.2 Watanagashi",
+      "appId": "410890",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "DETECTIVE - Stella Porta case",
+      "appId": "2383220",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "Sand Story",
+      "appId": "1749420",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "Silence Channel 2",
+      "appId": "2145220",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "Once on a windswept night",
+      "appId": "585880",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "On the Peril of Parrots",
+      "appId": "2137480",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "Scholar's Mate",
+      "appId": "2095510",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "A Winter's Daydream",
+      "appId": "925340",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "Demon Lord Reincarnation",
+      "appId": "2395150",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "HORROR TALES: The Beggar",
+      "appId": "1343340",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "Prune & Milo",
+      "appId": "2787710",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "Son of a Gun",
+      "appId": "2288600",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "Bio Prototype:Re",
+      "appId": "3060520",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "The Sad Story of Emmeline Burns",
+      "appId": "429940",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    },
+    {
+      "title": "Numina",
+      "appId": "597060",
+      "imageUrl": "",
+      "official": false,
+      "flags": [],
+      "collaboration": "",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": ""
+    }
+  ]
+}
