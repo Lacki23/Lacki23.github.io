@@ -24,7 +24,7 @@
       "flags": ["🇵🇱"],
       "collaboration": "",
       "platforms": [
-        "PC"
+        "PC", "Android", "iOS"
       ],
       "downloadUrl": ""
     },
@@ -36,7 +36,7 @@
       "flags": ["🇪🇸"],
       "collaboration": "",
       "platforms": [
-        "PC"
+        "PC", "PlayStation", "Xbox", "Switch"
       ],
       "downloadUrl": ""
     },
@@ -84,7 +84,7 @@
       "flags": ["🇺🇸"],
       "collaboration": "",
       "platforms": [
-        "PC"
+        "PC", "Android"
       ],
       "downloadUrl": ""
     },
@@ -96,7 +96,7 @@
       "flags": ["🇪🇸"],
       "collaboration": "",
       "platforms": [
-        "PC"
+        "PC", "PlayStation", "Xbox"
       ],
       "downloadUrl": ""
     },
@@ -108,7 +108,7 @@
       "flags": ["🇺🇸"],
       "collaboration": "",
       "platforms": [
-        "PC"
+        "PC", "Android"
       ],
       "downloadUrl": ""
     },
@@ -132,7 +132,7 @@
       "flags": ["🇨🇦"],
       "collaboration": "",
       "platforms": [
-        "PC"
+        "PC", "Xbox"
       ],
       "downloadUrl": ""
     },
@@ -144,7 +144,7 @@
       "flags": ["🇪🇸"],
       "collaboration": "",
       "platforms": [
-        "PC"
+        "PC", "PlayStation", "Xbox", "Switch"
       ],
       "downloadUrl": ""
     },
@@ -180,7 +180,7 @@
       "flags": ["🇪🇸"],
       "collaboration": "",
       "platforms": [
-        "PC"
+        "PC", "PlayStation", "Xbox", "Switch"
       ],
       "downloadUrl": ""
     },
@@ -240,7 +240,7 @@
       "flags": ["🇪🇸"],
       "collaboration": "",
       "platforms": [
-        "PC"
+        "PC", "PlayStation", "Xbox"
       ],
       "downloadUrl": ""
     },
@@ -252,7 +252,7 @@
       "flags": ["🇺🇸"],
       "collaboration": "",
       "platforms": [
-        "PC"
+        "PC", "Android"
       ],
       "downloadUrl": ""
     },
@@ -276,7 +276,7 @@
       "flags": ["🇪🇸"],
       "collaboration": "",
       "platforms": [
-        "PC"
+        "PC", "PlayStation", "Xbox"
       ],
       "downloadUrl": ""
     },
@@ -300,7 +300,7 @@
       "flags": ["🇵🇱"],
       "collaboration": "",
       "platforms": [
-        "PC"
+        "PC", "Switch"
       ],
       "downloadUrl": ""
     },
@@ -312,7 +312,7 @@
       "flags": ["🇨🇳"],
       "collaboration": "",
       "platforms": [
-        "PC"
+        "PC", "Switch"
       ],
       "downloadUrl": ""
     },
@@ -324,7 +324,7 @@
       "flags": ["🇺🇸"],
       "collaboration": "",
       "platforms": [
-        "PC"
+        "PC", "Android"
       ],
       "downloadUrl": ""
     },
