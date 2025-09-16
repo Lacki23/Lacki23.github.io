@@ -6,10 +6,8 @@
       "appId": "2134320",
       "imageUrl": "",
       "official": false,
-      "flags": [
-        "🇵🇪"
-      ],
-      "collaboration": "",
+      "flags": ["🇵🇪"],
+      "collaboration": "Portalboy, NicoBloze",
       "platforms": [
         "PC"
       ],
@@ -58,7 +56,7 @@
       "imageUrl": "",
       "official": true,
       "flags": ["🇨🇳"],
-      "collaboration": "",
+      "collaboration": "plyushkk",
       "platforms": [
         "PC"
       ],
@@ -82,7 +80,7 @@
       "imageUrl": "",
       "official": true,
       "flags": ["🇺🇸"],
-      "collaboration": "",
+      "collaboration": "vrsstk",
       "platforms": [
         "PC", "Android"
       ],
@@ -106,7 +104,7 @@
       "imageUrl": "",
       "official": true,
       "flags": ["🇺🇸"],
-      "collaboration": "",
+      "collaboration": "vrsstk",
       "platforms": [
         "PC", "Android"
       ],
@@ -154,7 +152,7 @@
       "imageUrl": "",
       "official": true,
       "flags": ["🇺🇸"],
-      "collaboration": "",
+      "collaboration": "AleksaPsi, MaryLDevis",
       "platforms": [
         "PC"
       ],
@@ -166,7 +164,7 @@
       "imageUrl": "",
       "official": false,
       "flags": ["🇺🇸", "🇯🇵"],
-      "collaboration": "",
+      "collaboration": "OniUA",
       "platforms": [
         "PC"
       ],
@@ -202,7 +200,7 @@
       "imageUrl": "",
       "official": true,
       "flags": ["🇸🇪"],
-      "collaboration": "",
+      "collaboration": "Godresky",
       "platforms": [
         "PC"
       ],
@@ -214,7 +212,7 @@
       "imageUrl": "",
       "official": true,
       "flags": ["🇺🇸"],
-      "collaboration": "",
+      "collaboration": "AleksaPsi, MaryLDevis",
       "platforms": [
         "PC"
       ],
@@ -226,7 +224,7 @@
       "imageUrl": "",
       "official": true,
       "flags": ["🇯🇲"],
-      "collaboration": "",
+      "collaboration": "Arficord",
       "platforms": [
         "PC"
       ],
@@ -250,7 +248,7 @@
       "imageUrl": "",
       "official": true,
       "flags": ["🇺🇸"],
-      "collaboration": "",
+      "collaboration": "Sandigo Studio",
       "platforms": [
         "PC", "Android"
       ],
@@ -262,7 +260,7 @@
       "imageUrl": "",
       "official": true,
       "flags": ["🇺🇦"],
-      "collaboration": "",
+      "collaboration": "Drifters",
       "platforms": [
         "PC"
       ],
@@ -286,7 +284,7 @@
       "imageUrl": "",
       "official": false,
       "flags": ["🇪🇸", "🇫🇷"],
-      "collaboration": "",
+      "collaboration": "Portalboy",
       "platforms": [
         "PC"
       ],
@@ -310,7 +308,7 @@
       "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3689520/ea7219ee7ddb30b4f124baa08511eb82e0f79a2f/library_600x900.jpg",
       "official": true,
       "flags": ["🇨🇳"],
-      "collaboration": "",
+      "collaboration": "Godresky",
       "platforms": [
         "PC", "Switch"
       ],
@@ -322,7 +320,7 @@
       "imageUrl": "",
       "official": true,
       "flags": ["🇺🇸"],
-      "collaboration": "",
+      "collaboration": "CatLocTeam",
       "platforms": [
         "PC", "Android"
       ],
@@ -334,7 +332,7 @@
       "imageUrl": "",
       "official": true,
       "flags": ["🇩🇪"],
-      "collaboration": "",
+      "collaboration": "GGL Studio",
       "platforms": [
         "PC"
       ],
