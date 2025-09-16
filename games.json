@@ -20,7 +20,7 @@
       "title": "Pawnbarian",
       "appId": "1142080",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -32,7 +32,7 @@
       "title": "The Creepy Syndrome",
       "appId": "2003880",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -44,7 +44,7 @@
       "title": "Blocky Dungeon",
       "appId": "1683370",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -56,7 +56,7 @@
       "title": "Insomnia: Theater in the Head",
       "appId": "2085360",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -68,7 +68,7 @@
       "title": "Remnants of Naezith",
       "appId": "590590",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -80,7 +80,7 @@
       "title": "To Have and to Hold",
       "appId": "2513080",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -92,7 +92,7 @@
       "title": "FINIS",
       "appId": "2103370",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -104,7 +104,7 @@
       "title": "It gets so lonely here",
       "appId": "2386250",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -116,7 +116,7 @@
       "title": "PocketCars",
       "appId": "1170720",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -128,7 +128,7 @@
       "title": "Atrio: The Dark Wild",
       "appId": "1125390",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -140,7 +140,7 @@
       "title": "Crashy Laps",
       "appId": "2257410",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -152,7 +152,7 @@
       "title": "Six Days of Snow",
       "appId": "754810",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -176,7 +176,7 @@
       "title": "DETECTIVE - Stella Porta case",
       "appId": "2383220",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -188,7 +188,7 @@
       "title": "Sand Story",
       "appId": "1749420",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -200,7 +200,7 @@
       "title": "Silence Channel 2",
       "appId": "2145220",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -212,7 +212,7 @@
       "title": "Once on a windswept night",
       "appId": "585880",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -224,7 +224,7 @@
       "title": "On the Peril of Parrots",
       "appId": "2137480",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -236,7 +236,7 @@
       "title": "Scholar's Mate",
       "appId": "2095510",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -248,7 +248,7 @@
       "title": "A Winter's Daydream",
       "appId": "925340",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -260,7 +260,7 @@
       "title": "Demon Lord Reincarnation",
       "appId": "2395150",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -272,7 +272,7 @@
       "title": "HORROR TALES: The Beggar",
       "appId": "1343340",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -296,7 +296,7 @@
       "title": "Son of a Gun",
       "appId": "2288600",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -305,10 +305,10 @@
       "downloadUrl": ""
     },
     {
-      "title": "Bio Prototype:Re",
-      "appId": "3060520",
+      "title": "Bioprototype",
+      "appId": "3689520",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -320,7 +320,7 @@
       "title": "The Sad Story of Emmeline Burns",
       "appId": "429940",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
@@ -332,7 +332,7 @@
       "title": "Numina",
       "appId": "597060",
       "imageUrl": "",
-      "official": false,
+      "official": true,
       "flags": [],
       "collaboration": "",
       "platforms": [
