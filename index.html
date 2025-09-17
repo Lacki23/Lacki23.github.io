@@ -150,12 +150,22 @@
         font-weight: 800;
         font-size: clamp(24px, 5vw, 36px);
         letter-spacing: -0.02em;
+        /* Fallback color for browsers that don't support background-clip */
+        color: var(--accent);
         background: linear-gradient(135deg, var(--accent), #8a2be2);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         background-clip: text;
         text-shadow: 0 0 30px var(--accent-glow);
         animation: glow 3s ease-in-out infinite alternate;
+      }
+      /* Support detection for background-clip */
+      @supports not (-webkit-background-clip: text) {
+        .title {
+          background: none;
+          color: var(--accent);
+          -webkit-text-fill-color: unset;
+        }
       }
       @keyframes glow {
         from {
