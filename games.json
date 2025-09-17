@@ -15,6 +15,32 @@
       "status": "In Work"
     },
     {
+      "title": "This Strange Realm Of Mine",
+      "appId": "655730",
+      "imageUrl": "",
+      "official": false,
+      "flags": ["🇸🇪"],
+      "collaboration": "Portalboy",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": "",
+      "status": "In Work"
+    },
+    {
+      "title": "A Space for the Unbound",
+      "appId": "1201270",
+      "imageUrl": "",
+      "official": false,
+      "flags": ["🇮🇩"],
+      "collaboration": "Portalboy",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": "",
+      "status": "In Work"
+    },
+    {
       "title": "Pawnbarian",
       "appId": "1142080",
       "imageUrl": "",
