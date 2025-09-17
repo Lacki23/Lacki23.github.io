@@ -41,6 +41,19 @@
       "status": "In Work"
     },
     {
+      "title": "Death and Taxes",
+      "appId": "1166290",
+      "imageUrl": "",
+      "official": true,
+      "flags": ["🇪🇪"],
+      "collaboration": "Retnara",
+      "platforms": [
+        "PC", "Android", "iOS", "PlayStation", "Xbox", "Switch"
+      ],
+      "downloadUrl": "",
+      "status": "In Work"
+    },
+    {
       "title": "Pawnbarian",
       "appId": "1142080",
       "imageUrl": "",
