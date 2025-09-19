@@ -14,6 +14,19 @@
       "downloadUrl": "",
       "status": "In Work"
     },
+    {
+      "title": "Banishers: Ghosts of New Eden",
+      "appId": "1493640",
+      "imageUrl": "",
+      "official": false,
+      "flags": ["🇫🇷"],
+      "collaboration": "yaroslaw8649",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": "",
+      "status": "In Work"
+    },
         {
       "title": "nothing & nowhere",
       "appId": "1166730",
