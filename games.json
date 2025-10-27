@@ -123,7 +123,7 @@
       "appId": "1066900",
       "imageUrl": "",
       "official": false,
-      "flags": ["🇦🇹"],
+      "flags": ["🇦🇹", "🇯🇵"],
       "collaboration": "ralphfinchi",
       "platforms": [
         "PC"
@@ -135,7 +135,7 @@
       "appId": "2935840",
       "imageUrl": "",
       "official": false,
-      "flags": ["🇺🇸"],
+      "flags": ["🇺🇸", "🇬🇧"],
       "collaboration": "Кавунові переклади",
       "platforms": [
         "PC"
