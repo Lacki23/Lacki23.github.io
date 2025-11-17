@@ -2,6 +2,19 @@
   "_INSTRUCTIONS": "Як редагувати:\n- Для кожної гри заповніть або \"appId\" (число з адреси сторінки Steam), або \"imageUrl\" з Steam CDN.\n  • Приклад header: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/APPID/header.jpg\n  • Приклад library (постер 600×900 з хешем): https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/APPID/<hash>/library_600x900.jpg?t=<ts>\n- \"official\": true/false — відобразиться як ✅ / ❌.\n- \"flags\": масив з 0–2 прапорців-емоджі (походження автора/видавця), напр.: [\"🇺🇦\",\"🇵🇱\"].\n- \"collaboration\": текст (напр., \"Solo\", \"Team\", \"З автором\").\n- \"platforms\": масив або рядок (напр., [\"PC\"] чи \"PC, Switch\").\nЗберегти у цьому файлі, після оновлення сторінки дані підтягнуться автоматично.",
   "games": [
     {
+      "title": "Stronghold Legends: Steam Edition",
+      "appId": "40980",
+      "imageUrl": "",
+      "official": false,
+      "flags": ["🇬🇧"],
+      "collaboration": "Галицький Розбишака",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": "",
+      "status": "In Work"
+    },
+    {
       "title": "ENA: Dream BBQ",
       "appId": "2134320",
       "imageUrl": "",
