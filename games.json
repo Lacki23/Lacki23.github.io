@@ -40,19 +40,7 @@
       "downloadUrl": "",
       "status": "In Work"
     },
-        {
-      "title": "Lynne",
-      "appId": "885640",
-      "imageUrl": "",
-      "official": true,
-      "flags": ["🇺🇸"],
-      "collaboration": "AleksaPsi, MaryLDevis",
-      "platforms": [
-        "PC", "Android"
-      ],
-      "downloadUrl": "",
-      "status": "In Work"
-    },
+
     {
       "title": "This Strange Realm Of Mine",
       "appId": "655730",
@@ -117,6 +105,18 @@
       ],
       "downloadUrl": "",
       "status": "In Work"
+    },
+    {
+      "title": "Lynne",
+      "appId": "885640",
+      "imageUrl": "",
+      "official": true,
+      "flags": ["🇺🇸"],
+      "collaboration": "AleksaPsi, MaryLDevis",
+      "platforms": [
+        "PC", "Android"
+      ],
+      "downloadUrl": "",
     },
     {
       "title": "qomp",
