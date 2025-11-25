@@ -132,6 +132,18 @@
       "downloadUrl": ""
     },
     {
+      "title": "qomp2",
+      "appId": "2243510",
+      "imageUrl": "",
+      "official": false,
+      "flags": ["🇺🇸", "🇯🇵"],
+      "collaboration": "Кавунові переклади",
+      "platforms": [
+        "PC"
+      ],
+      "downloadUrl": "https://t.me/CultureBlackout/2224"
+    },
+    {
       "title": "qomp",
       "appId": "1066900",
       "imageUrl": "",
